@@ -1,0 +1,163 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a{
+color:blue;
+text-decoration:none;
+padding: 50px;
+}
+
+nav{
+background: linear-gradient(#00d9ff, #ff00ea);
+padding: 25px;
+}
+
+button{
+ background: linear-gradient(#00d9ff, #ff00ea);
+ padding: 5px;
+ width: 90px;
+
+}
+
+.button button{
+margin-right: 71px;
+border:none;
+}
+
+aside {
+float: left;
+margin-right: 10px;
+}
+
+main img {
+width: 304px;
+height: 250px;
+position:absolute;
+right: 8px;
+}
+
+.img1{
+width: 250px;
+height: 250px;
+position:relative;
+right: 8px;
+}
+
+main h1{
+text-align: center;
+font-size: 40px;
+}
+
+.img3{
+width: 200px;
+height: 300px;
+position:relative;
+}
+
+main h2{
+font-size: 15px;
+}
+
+.h two{
+font-size:29px;
+}
+
+.img4{
+width: 550px;
+height: 300px;
+position: relative;
+}
+
+.img5{
+width: 300px;
+height: 360px;
+position: relative;
+}
+
+.h1u{
+text-align: center;
+font-size: 38px;
+}
+
+.img38{
+width: 300px;
+height: 300px;
+position: relative;
+}
+
+.img388{
+width: 400px;
+height: 300px;
+position: relative;
+}
+
+.procebe{
+text-align: center;
+}
+
+.img37{
+width: 170px;
+height: 212px;
+position: relative;
+}
+
+.img36{
+width: 170px;
+height: 212px;
+position: relative;
+}
+
+.footerh1{
+ background: linear-gradient(#00d9ff, #ff00ea);
+ padding: 100px;
+ width: 700px;
+ text-align: left;
+ position:absolute;
+}
+
+.ppp{
+ background: linear-gradient(#00d9ff, #ff00ea);
+ padding: 100px;
+ width: 700px;
+ text-align: center;
+ position:absolute;
+}
+
+.ghy{
+width: 150px;
+left: 100px;
+}
+
+.ght{
+width:150px;
+}
+button{
+opacity: 30%;
+}
+button:hover {
+color: rgb(30, 255, 0);
+opacity: 100%;
+}
+
+footer{
+    padding: 3%;
+    color: white;
+    font-size: 30px;
+    background: linear-gradient(#00d9ff, #ff00ea);
+}
+
+.foot{
+    display: block ;
+    justify-content: center;
+    text-align: center;
+}
+
+.omg{
+    display: block;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
